@@ -1,6 +1,8 @@
 # EmailApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
+## Project Setup
+Run `npm install` for installing all packages and node_modules
 
 ## Development server
 
