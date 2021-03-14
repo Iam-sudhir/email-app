@@ -29,8 +29,8 @@ export class AppComponent implements OnInit {
       setTimeout(() => {
         this.showMail = false;
         this.resetBtn();
-      }, 10000);
-    }, 15000);
+      }, 5000);
+    }, 7000);
   }
   resetBtn() {
     this.form.reset();
